@@ -12,9 +12,13 @@ langchain_google_genai
 pypdf
 #Pinecone
 langchain-pinecone
+#PDF
 pymupdf
 langchain_experimental
 opensearch-py
 langchain_mongodb
+#LangchainTools
 wikipedia
 youtube_search
+#Langgraph
+langgraph
