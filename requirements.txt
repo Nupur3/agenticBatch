@@ -22,3 +22,7 @@ wikipedia
 youtube_search
 #Langgraph
 langgraph
+#unstructured
+unstructured
+#Chromadb
+chromadb
