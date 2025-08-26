@@ -26,3 +26,7 @@ langgraph
 unstructured
 #Chromadb
 chromadb
+#DuckDuckgosearch
+duckduckgo-search
+#YahooFinance
+yfinance
